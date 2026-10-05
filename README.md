@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-0.2.1-red?style=flat-square" alt="Version 0.2.1">
   <img src="https://img.shields.io/badge/macOS-14%2B%20%C2%B7%20Apple%20Silicon-111a2e?style=flat-square&logo=apple&logoColor=white" alt="macOS 14 or later, Apple Silicon">
-  <img src="https://img.shields.io/badge/price-free-d6519a?style=flat-square" alt="Free">
+  <img src="https://img.shields.io/badge/price-free-blue?style=flat-square" alt="Free">
   <img src="https://img.shields.io/badge/languages-EN%20%C2%B7%20UK%20%C2%B7%20RU-111a2e?style=flat-square" alt="Languages">
 </p>
 
