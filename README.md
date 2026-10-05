@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">Cinema64</h1>
-
-<h3 align="center">The cinema on your Mac.`This app is in early development`</h3>
+`This app is in early development`
+<h3 align="center">The cinema on your Mac.</h3>
 
 <p align="center">
   Dolby Vision and HDR films from MKV and MP4, played by macOS itself — in one free, native Mac app.
